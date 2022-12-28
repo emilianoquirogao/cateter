@@ -1,0 +1,40 @@
+.table-activos-nombre{
+	text-transform:capitalize;
+}
+.table-activos-cama-uc{
+	text-transform:uppercase;
+}
+.table-activos-intervencion{
+	text-transform:capitalize;
+}
+.table-activos-residente{
+	text-transform:capitalize;
+}
+@media screen and (max-width: 450px) {
+	.table-activos-residente{
+		display:none;
+	}
+}
+
+.paciente_nombre{
+	text-transform:capitalize;
+}
+.paciente_cama{
+	text-transform:uppercase;
+}
+
+.firstletteruptd:first-letter{
+	text-transform:uppercase;
+}
+
+.firstletterup{
+	display:inline-block;
+}
+.firstletterup:first-letter{
+	text-transform:uppercase;
+}
+.nombreresidente{
+	text-transform:capitalize;
+}
+
+
